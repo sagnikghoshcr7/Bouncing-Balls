@@ -12,7 +12,7 @@ Deep colors. Collisions. And you, a hungry circle that must devour all the balls
 - Css3
 - JS
 
-## get the code from the repository
+## Get the code from the repository
 ```
 git clone https://github.com/sagnikghoshcr7/Bouncing-Balls.git
 ```
